@@ -7,7 +7,7 @@ Autosplitter for the PC version of Sonic Forces with full support for all accept
 # General behaviour
 
 Provides full support for the categories listed on speedrun.com
-- For more info, see the <a href="https://www.speedrun.com/sonic_colors_ultimate">dedicated page</a>.
+- For more info, see the <a href="https://www.speedrun.com/sonicforces">dedicated page</a>.
 
 The autosplitter supports in-game timing.
 
