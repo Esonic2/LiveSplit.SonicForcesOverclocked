@@ -11,6 +11,6 @@ Provides full support for the categories listed on speedrun.com
 
 The autosplitter supports in-game timing.
 
-Automatic splitting can be configured for each of the main levels included in the game (including Episode Shaodw).
+Automatic splitting can be configured for each of the main levels included in the game (including Episode Shadow).
 Support for secret and extra stages is NOT included in the autosplitter, as no category on speedrun.com includes those levels.
 Splits can be configured in settings.
