@@ -1,16 +1,12 @@
-<h1> <img src="https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicForces/main/sonic-forces-logo.svg" alt="SonicForces" height="75" align="middle" /> Sonic Forces - Autosplitter</h1>
+<h1> <img ![forcesoverclocked](https://github.com/user-attachments/assets/0bc4baef-dea8-4dc6-a51b-474e7885fe78)
+ alt="SonicForces" height="75" align="middle" /> Sonic Forces - Autosplitter</h1>
 
-Autosplitter for the PC version of Sonic Forces with full support for all accepted categories on speedrun.com and customizable options
+Autosplitter for Sonic Forces Overclocked
 
-<img src="https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicForces/main/settings.png">
+Only supports any% at the moment
 
-# General behaviour
+Code by Jusjstme, i only edited it to work better with Overclocked
 
-Provides full support for the categories listed on speedrun.com
-- For more info, see the <a href="https://www.speedrun.com/sonicforces">dedicated page</a>.
 
-The autosplitter supports in-game timing.
 
-Automatic splitting can be configured for each of the main levels included in the game (including Episode Shadow).
-Support for secret and extra stages is NOT included in the autosplitter, as no category on speedrun.com includes those levels.
-Splits can be configured in settings.
+
