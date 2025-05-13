@@ -6,7 +6,7 @@ No Episode Metal support at the moment
 
 Code by Jujstme, i only edited it to work better with Overclocked
 
-
+If it does not work try checking back later, this is still being worked on
 
 
 
